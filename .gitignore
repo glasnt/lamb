@@ -1,0 +1,4 @@
+# shh, secrets
+secret_env.py
+tweet_history.log
+*.pyc
